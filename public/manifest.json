@@ -1,0 +1,16 @@
+{
+  "name": "Payne's Yes Chef",
+  "short_name": "Yes Chef",
+  "description": "The Payne family meal planner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141F10",
+  "theme_color": "#141F10",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
